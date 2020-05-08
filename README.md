@@ -13,4 +13,4 @@ This repository contains solutions(in C++❤) to the May LeetCoding Challenge 20
 - Just Create pull request if your solution is better than me in terms of time complexity then your pull request is accepted.
 - Feel free to contribute.
 
-<a href="https://github.com/BhishmDaslaniya">Fork Me On GitHub</a>
+🌐[Fork Me on GitHub](https://github.com/BhishmDaslaniya/Leetcode-May-Challenge/fork)
